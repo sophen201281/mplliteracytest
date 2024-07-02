@@ -1,4 +1,4 @@
-var number_of_images = 6; // Replace number of image here Image size 1920x1080
+var number_of_images = 7; // Replace number of image here Image size 1920x1080
 var images_folder = 'asset1/img/slide';
 var thisimage = '';
 for (i = 1; i <= number_of_images; i++) {
